@@ -1,0 +1,44 @@
+body { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /*centralizar a pagina*/
+    color: #fff;
+    background-color: #333;
+}
+
+nav { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    justify-content: space-between; /*mexe nos elementos de centralização do topo*/
+    display:flex; /*mexe nos elementos de centralização do topo*/
+    padding: 20px; /*mexe nos elementos de centralização do topo*/
+    border-bottom: 1px solid rgb(186, 250, 59)
+    
+}
+
+nav ul{ /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    display: flex;
+    align-items: center;
+    list-style: none; /*tira os pontos de marcação*/
+    font-size: 20px;
+}
+
+ul li{ /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    margin-right: 12px; /*da espaçamentos nos textos da direita superior*/
+}
+ul li a {
+    color: #fff;
+}
+h1{
+    font-size: 32px;
+}
+
+img{
+    border: 2px solid rgb(186, 250, 59)
+}
+footer{
+    margin-top: 20px;
+    padding: 20px;
+    border-top: 1px solid rgb(191, 255, 0)
+    
+}
+
+
+   
