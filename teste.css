@@ -1,8 +1,11 @@
 body { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    
     font-family: Arial, Helvetica, sans-serif;
     text-align: center; /*centralizar a pagina*/
     color: #fff;
     background-color: #333;
+   
+    
 }
 
 nav { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
