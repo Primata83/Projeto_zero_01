@@ -9,10 +9,15 @@ body { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
 }
 
 nav { /*COLOCAR AS TAGS DE ONDE VAI MEXER SE CHAMA ESPECIFIDADE*/
+    
+    text-align: right;
     justify-content: space-between; /*mexe nos elementos de centralização do topo*/
     display:flex; /*mexe nos elementos de centralização do topo*/
     padding: 20px; /*mexe nos elementos de centralização do topo*/
     border-bottom: 1px solid rgb(186, 250, 59)
+    
+    
+    
     
 }
 
